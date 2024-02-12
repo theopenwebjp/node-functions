@@ -1,12 +1,20 @@
 {
-  "name": "node-functions",
+  "name": "@theopenweb/node-functions",
   "version": "1.0.0",
   "description": "Node JS functions",
   "main": "index.js",
   "scripts": {
     
   },
-  "keywords": [],
-  "author": "Damien Golding",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theopenwebjp/node-functions.git"
+  },
+  "author": "The Open Web <noreply@theopenweb.jp> (https://theopenweb.jp)",
+  "contributors": [
+      "Damien Golding <noreply@damiengolding.com> (https://damiengolding.com)"
+  ],
+  "keywords": ["Utility", "Helpers", "Node.js"],
+  "homepage": "https://github.com/theopenwebjp/node-functions#readme",
   "license": "MIT"
 }
